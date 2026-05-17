@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this empirical power-law regression model to estimate vehicle horsepower, please cite it as follows."
+authors:
+  - family-names: "Venis"
+    given-names: "David"
+    alias: "David Venis"
+title: "Empirical Wheel Horsepower Estimation Model via 60-130 mph Performance Data"
+version: 1.0.0
+date-released: "2022-05-26"  # Update with the exact year/date your video went live
+url: "https://youtu.be/eY_i2nBVzh0?si=7lNHUvAw_1ilpiJi"
+repository-code: "https://github.com"
+abstract: >-
+  A mathematical power-law regression model derived from real-world Dragy and
+  Dragtimes datasets mapping vehicle race weight and 60-130 mph acceleration
+  times to verified wheel horsepower (WHP).
